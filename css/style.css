@@ -1,0 +1,76 @@
+/*.container{
+  display: flex;
+},*/
+
+.background {
+    padding-top: 100px;
+    flex-grow: 7;
+    background: linear-gradient( 0deg, #fff, #ccffff 40%, #b3e6ff);
+}
+
+.myContainer {
+    display: flex;
+}
+
+.myPic {
+    justify-content: center;
+}
+
+.navbar {}
+
+.basicInfo {
+    justify-content: center;
+}
+
+.mySites {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 50px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 5%;
+}
+
+.skillsBest {
+    display: flex;
+    justify-content: center;
+}
+
+.textNopadding {
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.textMargin {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.aboutText{
+  display: flex;
+  justify-content: center;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.aboutMeCopy{
+  font-size: 25px;
+}
+
+.resume{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
